@@ -1,0 +1,10 @@
+This is my final project from INFSCI 2130 (Decision Analysis and Decision
+Support Systems). It is a simple system for estimating the "true cost" of
+buying a piece of hardware, using ratings from sites like newegg as a proxy for
+reliability.
+
+It is built on the SMILE framework: http://genie.sis.pitt.edu/
+
+Code was written by Mike Kelly
+
+Model design was by Mike Kelly and Michelle Neustein.
